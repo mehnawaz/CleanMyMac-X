@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#229E45" points="0 0 640 0 640 480 0 480"/>
+    <polygon fill="#F8E509" points="321.406 435.935 622.889 240.265 319.581 44.065 17.11 240.734 321.406 435.934"/>
+    <path fill="#2B49A3" d="M452.77,240.005 C452.77,310.333 395.667,367.345 325.226,367.345 C254.784,367.345 197.682,310.333 197.682,240.005 C197.682,169.677 254.786,112.665 325.226,112.665 C395.668,112.665 452.771,169.677 452.771,240.005 L452.77,240.005 Z"/>
+    <circle cx="221" cy="219" r="6" fill="#FFF"/>
+    <circle cx="279" cy="246" r="6" fill="#FFF"/>
+    <circle cx="326" cy="258" r="6" fill="#FFF"/>
+    <circle cx="279" cy="311" r="6" fill="#FFF"/>
+    <circle cx="233" cy="274" r="6" fill="#FFF"/>
+    <circle cx="366" cy="333" r="6" fill="#FFF"/>
+    <circle cx="366" cy="201" r="5" fill="#FFF"/>
+    <circle cx="329" cy="300" r="5" fill="#FFF"/>
+    <circle cx="415" cy="285" r="5" fill="#FFF"/>
+    <circle cx="340" cy="272" r="3" fill="#FFF"/>
+    <circle cx="413" cy="307" r="3" fill="#FFF"/>
+    <circle cx="390" cy="323" r="3" fill="#FFF"/>
+    <circle cx="392" cy="336" r="3" fill="#FFF"/>
+    <circle cx="431" cy="286" r="2" fill="#FFF"/>
+    <circle cx="417" cy="297" r="2" fill="#FFF"/>
+    <circle cx="403" cy="311" r="2" fill="#FFF"/>
+    <circle cx="392" cy="310" r="2" fill="#FFF"/>
+    <circle cx="373" cy="310" r="2" fill="#FFF"/>
+    <circle cx="354" cy="310" r="2" fill="#FFF"/>
+    <circle cx="328" cy="339" r="2" fill="#FFF"/>
+    <circle cx="324" cy="283" r="2" fill="#FFF"/>
+    <circle cx="247" cy="266" r="2" fill="#FFF"/>
+    <circle cx="315" cy="272" r="3" fill="#FFF"/>
+    <circle cx="259" cy="283" r="3" fill="#FFF"/>
+    <circle cx="253" cy="299" r="3" fill="#FFF"/>
+    <circle cx="216" cy="283" r="3" fill="#FFF"/>
+    <circle cx="357.5" cy="236.5" r="3.5" fill="#FFF"/>
+    <path fill="#FFF" d="M450.151,266.031 C382.409,206.523 306.891,176.038 211.471,182.311 C208.049,188.869 205.311,195.734 203.001,203.164 C316.064,192.378 398.937,242.434 444.371,285.818 C446.312,280.734 448.818,273.067 450.151,266.031 Z"/>
+  </g>
+</svg>
